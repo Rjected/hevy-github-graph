@@ -27,21 +27,6 @@ cargo run -- --weeks 26
 cargo run -- --ascii
 ```
 
-### Example Output
-
-```
-     ████████████████████████████████████████████████
-Mon  ██  ████████  ████  ██████████  ████  ██████████
-     ████████████████████████████████████████████████
-Wed  ██████  ██████████████████  ██████████████  ████
-     ████████████████████████████████████████████████
-Fri  ████████████  ██████████████████  ██████████████
-     ████████████████████████████████████████████████
-
-     Less ██████████ More
-     156 days with workouts shown
-```
-
 ## Android Widget
 
 The Android app provides a home screen widget that displays your workout contribution graph.
